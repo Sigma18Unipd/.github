@@ -3,7 +3,7 @@
 </p>
 
 # Organizzazione Sigma18
-Questa organizzazione contiene i le repository del gruppo 18 _Sigma18_, appartenente al secondo lotto del corso di Ingegneria del Software (L31 - Informatica). A.A. 2024/25, Università degli Studi di Padova.
+Questa organizzazione contiene le repository del gruppo 18 _Sigma18_, appartenente al secondo lotto del corso di Ingegneria del Software (L31 - Informatica). A.A. 2024/25, Università degli Studi di Padova.
 
 ## 👥 Componenti dell'organizzazione
 | Componente                | Matricola |
